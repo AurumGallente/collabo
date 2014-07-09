@@ -1,0 +1,971 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Durus\n"
+"POT-Creation-Date: 2014-03-19 18:13+0530\n"
+"PO-Revision-Date: 2014-03-19 18:15+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "Error: 404"
+msgstr ""
+
+#: ../404.php:14
+msgid "404 error, couldn't find the content you were looking for."
+msgstr ""
+
+#: ../404.php:22
+msgid "Search Our Website"
+msgstr ""
+
+#: ../404.php:23
+msgid "Use the below form to search what you was looking for:"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:16
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:16
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:16
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:54
+msgid "Name*"
+msgstr ""
+
+#: ../comments.php:55
+msgid "E-Mail*"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Submit comment"
+msgstr ""
+
+#: ../cutting/shortcodes.php:24 ../cutting/shortcodes.php:663
+#: ../cutting/shortcodes/button.php:32 ../cutting/shortcodes/cta_button.php:21
+msgid "Text on the button"
+msgstr ""
+
+#: ../cutting/shortcodes/accordion.php:152
+msgid "Section"
+msgstr ""
+
+#: ../cutting/shortcodes/blog_list.php:44
+msgid "No Comment"
+msgstr ""
+
+#: ../cutting/shortcodes/blog_list.php:46
+msgid " Comments"
+msgstr ""
+
+#: ../cutting/shortcodes/blog_list.php:48
+msgid "1 Comment"
+msgstr ""
+
+#: ../cutting/shortcodes/blog_list.php:108
+msgid "th"
+msgstr ""
+
+#: ../cutting/shortcodes/box.php:8 ../cutting/shortcodes/column.php:19
+#: ../cutting/shortcodes/section.php:19 ../cutting/shortcodes/tabs.php:25
+#, php-format
+msgid "Append to this %s"
+msgstr ""
+
+#: ../cutting/shortcodes/box.php:9 ../cutting/shortcodes/column.php:20
+#: ../cutting/shortcodes/section.php:20 ../cutting/shortcodes/tabs.php:26
+#, php-format
+msgid "Prepend to this %s"
+msgstr ""
+
+#: ../cutting/shortcodes/box.php:12 ../cutting/shortcodes/column.php:23
+#: ../cutting/shortcodes/tabs.php:29
+#, php-format
+msgid "Edit this %s"
+msgstr ""
+
+#: ../cutting/shortcodes/box.php:13 ../cutting/shortcodes/tabs.php:30
+#, php-format
+msgid "Clone this %s"
+msgstr ""
+
+#: ../cutting/shortcodes/box.php:15 ../cutting/shortcodes/tabs.php:32
+#, php-format
+msgid "Delete this %s"
+msgstr ""
+
+#: ../cutting/shortcodes/column.php:171
+msgid "Column"
+msgstr ""
+
+#: ../cutting/shortcodes/column.php:183
+msgid "Extra class name"
+msgstr ""
+
+#: ../cutting/shortcodes/column.php:186
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:20
+msgid "<strong>Success!</strong> Your Message Has been Sent"
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:21
+msgid "<strong>Error!</strong> An Error Occured While Sending your Message"
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:38
+msgid "Your Name"
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:39
+msgid "Your Country"
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:40
+msgid "Your City"
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:41
+msgid "Your Company"
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:42
+msgid "Your Message"
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:43
+msgid "Your Website"
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:44
+msgid "Your Phone Number"
+msgstr ""
+
+#: ../cutting/shortcodes/contact_form.php:45
+msgid "Your Email"
+msgstr ""
+
+#: ../cutting/shortcodes/feature_boxes.php:13
+msgid "Add New"
+msgstr ""
+
+#: ../cutting/shortcodes/feature_boxes.php:23
+#, php-format
+msgid "Delete these %s"
+msgstr ""
+
+#: ../cutting/shortcodes/feature_boxes.php:24
+#, php-format
+msgid "Edit these %s"
+msgstr ""
+
+#: ../cutting/shortcodes/feature_boxes.php:25
+#, php-format
+msgid "Clone these %s"
+msgstr ""
+
+#: ../cutting/shortcodes/image_gallery.php:28
+msgid "Add images"
+msgstr ""
+
+#: ../cutting/shortcodes/portfolio.php:44
+#: ../framework/templates/blog/posts/posts-grid.php:155
+msgid "Load More"
+msgstr ""
+
+#: ../cutting/shortcodes/portfolio.php:86
+msgid ""
+"Sorry You cannot create more than 1 infinite scroll or Load More Posts "
+"( Portfolios ) per page . Please change this in page builder "
+msgstr ""
+
+#: ../cutting/shortcodes/portfolio.php:108
+msgid "Sort Portfolios :"
+msgstr ""
+
+#: ../cutting/shortcodes/portfolio.php:110
+msgid "All"
+msgstr ""
+
+#: ../cutting/shortcodes/posts_carousel.php:122
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../cutting/shortcodes/quotes_slider.php:51
+#: ../cutting/shortcodes/single_image.php:58
+#: ../cutting/shortcodes/testimonials.php:101
+msgid "This is image placeholder, edit your page to replace it."
+msgstr ""
+
+#: ../cutting/shortcodes/quotes_slider.php:61
+msgid "-"
+msgstr ""
+
+#: ../cutting/shortcodes/row.php:37
+msgid "Custom layout"
+msgstr ""
+
+#: ../cutting/shortcodes/row.php:38
+msgid "Drag row to reorder"
+msgstr ""
+
+#: ../cutting/shortcodes/row.php:39
+msgid "Delete this row"
+msgstr ""
+
+#: ../cutting/shortcodes/row.php:40
+msgid "Edit this row"
+msgstr ""
+
+#: ../cutting/shortcodes/row.php:41
+msgid "Clone this row"
+msgstr ""
+
+#: ../cutting/shortcodes/section.php:52
+msgid "Delete this section"
+msgstr ""
+
+#: ../cutting/shortcodes/section.php:53
+msgid "Edit this Section"
+msgstr ""
+
+#: ../cutting/shortcodes/section.php:54
+msgid "Clone this Section"
+msgstr ""
+
+#: ../cutting/shortcodes/single_image.php:22
+msgid "Add image"
+msgstr ""
+
+#: ../cutting/shortcodes/social_share.php:37
+msgid "Tweet"
+msgstr ""
+
+#: ../cutting/shortcodes/tabs.php:6
+msgid "Tab"
+msgstr ""
+
+#: ../cutting/shortcodes/tabs.php:43
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../cutting/shortcodes/testimonials.php:90
+msgid "of"
+msgstr ""
+
+#: ../cutting/shortcodes/toggle_faq.php:13
+msgid "Click to toggle"
+msgstr ""
+
+#: ../cutting/shortcodes/tour.php:4
+msgid "Slide"
+msgstr ""
+
+#: ../framework/custom-posts.php:38
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../framework/custom-posts.php:39
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../framework/custom-posts.php:40
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../framework/custom-posts.php:41
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../framework/custom-posts.php:42
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../framework/custom-posts.php:43
+msgid "No portfolio items have been added yet"
+msgstr ""
+
+#: ../framework/custom-posts.php:44 ../framework/custom-posts.php:288
+#: ../framework/custom-posts.php:353
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../framework/custom-posts.php:67
+msgid "Title"
+msgstr ""
+
+#: ../framework/custom-posts.php:68
+msgid "Thumbnail"
+msgstr ""
+
+#: ../framework/custom-posts.php:69
+msgid "Category"
+msgstr ""
+
+#: ../framework/custom-posts.php:70
+msgid "Author"
+msgstr ""
+
+#: ../framework/custom-posts.php:71
+msgid "Comments"
+msgstr ""
+
+#: ../framework/custom-posts.php:72
+msgid "Date"
+msgstr ""
+
+#: ../framework/custom-posts.php:102 ../framework/custom-posts.php:118
+#: ../framework/custom-posts.php:144 ../framework/custom-posts.php:156
+#: ../framework/custom-posts.php:163 ../framework/custom-posts.php:170
+#: ../framework/custom-posts.php:177
+msgid "None"
+msgstr ""
+
+#: ../framework/custom-posts.php:282
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:283
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:284
+msgid "New Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:285
+msgid "View Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:286
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../framework/custom-posts.php:287
+msgid "No testimonials have been added yet"
+msgstr ""
+
+#: ../framework/custom-posts.php:312
+msgid "Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:313 ../framework/custom-posts.php:379
+msgid "Categories"
+msgstr ""
+
+#: ../framework/custom-posts.php:347
+msgid "Add New Client"
+msgstr ""
+
+#: ../framework/custom-posts.php:348
+msgid "Edit Client"
+msgstr ""
+
+#: ../framework/custom-posts.php:349
+msgid "New Client"
+msgstr ""
+
+#: ../framework/custom-posts.php:350
+msgid "View Client"
+msgstr ""
+
+#: ../framework/custom-posts.php:351
+msgid "Search Clients"
+msgstr ""
+
+#: ../framework/custom-posts.php:352
+msgid "No clients have been added yet"
+msgstr ""
+
+#: ../framework/custom-posts.php:377
+msgid "Client Logo"
+msgstr ""
+
+#: ../framework/custom-posts.php:378
+msgid "Client"
+msgstr ""
+
+#: ../framework/functions_blandes.php:565
+msgid "Prev"
+msgstr ""
+
+#: ../framework/functions_blandes.php:577
+msgid "Next"
+msgstr ""
+
+#: ../framework/functions_blandes.php:618
+#: ../framework/functions_blandes.php:621
+msgid "You Are Here:"
+msgstr ""
+
+#: ../framework/functions_blandes.php:692
+msgid "Posts tagged"
+msgstr ""
+
+#: ../framework/functions_blandes.php:697
+msgid "Articles posted by"
+msgstr ""
+
+#: ../framework/functions_blandes.php:701 ../header.php:138
+msgid "Error 404"
+msgstr ""
+
+#: ../framework/functions_blandes.php:706
+msgid "Page"
+msgstr ""
+
+#: ../framework/functions_blandes.php:725
+msgid "Name: "
+msgstr ""
+
+#: ../framework/functions_blandes.php:726
+msgid "Email: "
+msgstr ""
+
+#: ../framework/functions_blandes.php:727
+msgid "Telephone: "
+msgstr ""
+
+#: ../framework/functions_blandes.php:728
+msgid "Country: "
+msgstr ""
+
+#: ../framework/functions_blandes.php:729
+msgid "City: "
+msgstr ""
+
+#: ../framework/functions_blandes.php:730
+msgid "Company: "
+msgstr ""
+
+#: ../framework/functions_blandes.php:731
+msgid "Message: "
+msgstr ""
+
+#: ../framework/functions_blandes.php:732
+msgid "Website: "
+msgstr ""
+
+#: ../framework/functions_blandes.php:1141
+msgid "Says :"
+msgstr ""
+
+#: ../framework/functions_blandes.php:1142
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/functions_blandes.php:1143
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/functions_blandes.php:1145
+msgid "Edit"
+msgstr ""
+
+#: ../framework/functions_blandes.php:1146
+msgid "Reply"
+msgstr ""
+
+#: ../framework/headers/nav-bar.php:7
+msgid "Please assign a menu to the Main Menu in Appearance > Menus"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:5
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:8
+msgid "Dribbble"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:11
+msgid "Flickr"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:14
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:17
+msgid "Skype"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:21
+msgid "Google"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:24
+msgid "LinkedIn"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:27
+msgid "Vimeo"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:31
+msgid "Tumblr"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:34
+msgid "YouTube"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:37
+msgid "Instgram"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:41
+msgid "Behance"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:44
+msgid "Pinterest"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:47
+msgid "PayPal"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:50
+msgid "Delicious"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:53
+msgid "RSS"
+msgstr ""
+
+#: ../framework/headers/topmenu.php:6
+msgid "Please assign a menu to the Top Menu in Appearance > Menus"
+msgstr ""
+
+#: ../framework/plugin-activation.php:155 ../functions.php:136
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/plugin-activation.php:156 ../functions.php:137
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/plugin-activation.php:157 ../functions.php:138
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/plugin-activation.php:169 ../functions.php:150
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/plugin-activation.php:171
+#: ../framework/plugin-activation.php:1841 ../functions.php:151
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1086
+msgid "External Link"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1091
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1094
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1098
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1101
+msgid "Required"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1101
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1104
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1106
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1276
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1292
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1293
+msgid "Source"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1294
+msgid "Type"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1295
+msgid "Status"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1313
+msgid "Install"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1314
+msgid "Activate"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1824
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1825
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1826
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1827
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1828
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1829
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1840
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1950
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1951
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1951
+#: ../framework/plugin-activation.php:1960
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1951
+#: ../framework/plugin-activation.php:1960
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1952
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1953
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1957
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1958
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1959
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1960
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1961
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1962
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugin-activation.php:2053
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/scripts.php:60
+msgid "No more Posts to Load"
+msgstr ""
+
+#: ../framework/scripts.php:61
+msgid "No more Projects to Load"
+msgstr ""
+
+#: ../framework/templates/blog/postformats/post-link.php:13
+#: ../framework/templates/blog/postformats/post-quote.php:14
+#: ../framework/templates/blog/postformats/post.php:82
+#: ../framework/templates/blog/postformats/post.php:87
+msgid "Read More"
+msgstr ""
+
+#: ../framework/templates/blog/postformats/post-link.php:15
+#: ../framework/templates/blog/postformats/post-quote.php:16
+#: ../framework/templates/blog/postformats/post.php:59
+#: ../framework/templates/singlepost/post-format/post-link.php:12
+#: ../framework/templates/singlepost/post-format/post-quote.php:9
+#: ../framework/templates/singlepost/post-format/post.php:61
+msgid "Posted By:"
+msgstr ""
+
+#: ../framework/templates/blog/postformats/post-link.php:19
+#: ../framework/templates/blog/postformats/post-quote.php:20
+#: ../framework/templates/blog/postformats/post.php:63
+#: ../framework/templates/singlepost/post-format/post-link.php:16
+#: ../framework/templates/singlepost/post-format/post-quote.php:13
+#: ../framework/templates/singlepost/post-format/post.php:65
+msgid "Posted In:"
+msgstr ""
+
+#: ../framework/templates/blog/posts/posts-grid.php:10
+msgid ""
+"Sorry You cannot create more than 1 infinite scroll or Load More Posts "
+"( Portfolios ) per page . Please change this in page builder or blog "
+"settings "
+msgstr ""
+
+#: ../framework/templates/blog/posts/posts-grid.php:155
+msgid "Load More Posts.."
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:64
+#: ../framework/templates/single-portfolio/portfolio.php:61
+msgid "About the Project"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:71
+#: ../framework/templates/single-portfolio/portfolio.php:71
+msgid "Project Info"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:74
+#: ../framework/templates/single-portfolio/portfolio.php:75
+msgid "Client :"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:76
+#: ../framework/templates/single-portfolio/portfolio.php:81
+msgid "Categories :"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:78
+#: ../framework/templates/single-portfolio/portfolio.php:87
+msgid "Project Url :"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:84
+#: ../framework/templates/single-portfolio/portfolio.php:97
+msgid "Share : "
+msgstr ""
+
+#: ../framework/templates/singlepost/singlepost.php:16
+msgid "Related Posts"
+msgstr ""
+
+#: ../framework/templates/singlepost/singlepost.php:27
+msgid "Share this Story : "
+msgstr ""
+
+#: ../framework/templates/singlepost/singlepost.php:56
+msgid "About the Author"
+msgstr ""
+
+#: ../framework/templates/singlepost/singlepost.php:58
+msgid "The Author has not yet added any info about himself"
+msgstr ""
+
+#: ../framework/theme-update/pixelentity-themes-updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../framework/theme-update/pixelentity-themes-updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../framework/theme-update/pixelentity-themes-updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../framework/theme-update/pixelentity-themes-updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../framework/widgets/embed_video.php:11
+msgid "Display Embed Video"
+msgstr ""
+
+#: ../framework/widgets/embed_video.php:13
+msgid "Brad.Embed_Video"
+msgstr ""
+
+#: ../framework/widgets/flickr_widget.php:9
+msgid "Display your latest Flickr Photos"
+msgstr ""
+
+#: ../framework/widgets/flickr_widget.php:11
+msgid "brad.Flickr"
+msgstr ""
+
+#: ../framework/widgets/flickr_widget.php:56
+msgid "Flickr idGettr"
+msgstr ""
+
+#: ../framework/widgets/recent_posts.php:51
+msgid " at "
+msgstr ""
+
+#: ../framework/widgets/twitter_widget.php:9
+msgid "Display your latest Tweets"
+msgstr ""
+
+#: ../framework/widgets/twitter_widget.php:11
+msgid "Brad.Twitter Widget"
+msgstr ""
+
+#: ../functions.php:139
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:152
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:200
+msgid "These are widgets for the Footer."
+msgstr ""
+
+#: ../header.php:126 ../header.php:128 ../header.php:130 ../header.php:132
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../header.php:134
+msgid "Nothing Found"
+msgstr ""
+
+#: ../header.php:136
+msgid "Search Results"
+msgstr ""
+
+#: ../header.php:140
+msgid "Archives"
+msgstr ""
+
+#: ../search.php:20
+msgid "New Search"
+msgstr ""
+
+#: ../search.php:21
+msgid "To Refine Your Search Change your search text Below"
+msgstr ""
+
+#: ../search.php:34
+msgid "No"
+msgstr ""
+
+#: ../search.php:39
+#, php-format
+msgid "%1$s result found for: <span>%2$s</span></h1>"
+msgstr ""
+
+#: ../search.php:41
+#, php-format
+msgid "%1$s results found for: <span>%2$s</span>"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Type and Hit Enter"
+msgstr ""
+
+#: ../single-portfolio.php:12
+msgid "Related Projects"
+msgstr ""

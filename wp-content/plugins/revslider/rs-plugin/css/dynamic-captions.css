@@ -1,0 +1,36 @@
+.tp-caption.largewhitebg {
+color:#000000;
+background-color:rgb(255, 255, 255);
+background-color:rgba(255, 255, 255, 1);
+text-shadow:none;
+font-weight:300;
+font-size:20px;
+line-height:70px;
+font-family:"Open Sans";
+padding:0px 20px 0px 20px;
+text-decoration:none;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.largegreenbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#67ae73;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.black {
+color:#000;
+text-shadow:none;
+}
+
